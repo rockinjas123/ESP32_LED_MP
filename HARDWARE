@@ -1,0 +1,12 @@
+Requirements :
+1. ESP32
+2. 2x LEDs
+3. 3x 3330 Ohm resistor
+4. Pushbutton
+5. Potentiometer
+6. Breadboard
+7. Jumper wires
+
+
+CONNECTIONS ARE SHOWN IN THE FRITZING FILE
+
